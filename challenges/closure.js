@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-//it can use internal because it falls within it's scope, a function can reach outwards for data but never into nestes functions.
+`it can use internal because it falls within it's scope, a function can reach outwards for data but never into nestes functions.`
 
 
 /* Task 2: Counter */
